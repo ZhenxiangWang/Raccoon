@@ -1,0 +1,2 @@
+export const APP_INITIALIZING = "app/APP_INITIALIZING";
+export const APP_INITIALIZED = "app/APP_INITIALIZED";

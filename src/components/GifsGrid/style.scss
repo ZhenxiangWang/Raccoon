@@ -1,0 +1,16 @@
+.grid-container {
+  margin-top: 48px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+
+  .grid-item {
+    position: absolute;
+
+    .grid-button {
+      position: absolute;
+      top: 8px;
+      left: 8px;
+    }
+  }
+}
